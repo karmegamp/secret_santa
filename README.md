@@ -57,7 +57,8 @@ Note: The focus is on designing an efficient and reliable Secret Santa game.
 
 How to start the program
 Sample input files are in the git repository, output.csv file will be generated in current working directory.
-Since the choice for secret santa would be random, so added test cases only for failure cases
+Since the choice for secret santa would be random, so added test cases only for failure cases.
+Used Node version : Node.js v18.16.1
 
  >>node .\main.mjs .\employee_list.csv.txt .\employee_prev_year_choice.csv.txt
 
