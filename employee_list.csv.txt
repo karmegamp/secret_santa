@@ -1,0 +1,16 @@
+Employee_Name	Employee_EmailID
+Hamish Murray,hamish.murray@are.com
+Layla Graham,layla.graham@are.com
+Matthew King,matthew.king@are.com
+Benjamin Collins,benjamin.collins@are.com
+Isabella Scott,isabella.scott@are.com
+Charlie Ross,charlie.ross@are.com
+Hamish Murray,hamish.murray.sr@are.com
+Piper Stewart,piper.stewart@are.com
+Spencer Allen,spencer.allen@are.com
+Charlie Wright,charlie.wright@are.com
+Hamish Murray,hamish.murray.jr@are.com
+Charlie Ross,charlie.ross.jr@are.com
+Ethan Murray,ethan.murray@are.com
+Matthew King,matthew.king.jr@are.com
+Mark Lawrence,mark.lawrence@are.com
